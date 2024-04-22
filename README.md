@@ -1,2 +1,4 @@
 # demo
-A demo application
+A demo application :
+An API 
+An UI
